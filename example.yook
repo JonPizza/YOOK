@@ -1,0 +1,10 @@
+get https://jon.network becomes jon
+soupify jon becomes soup
+
+python:
+print(soup.title.string)
+print('https://jon.network')
+
+# Output:
+# Jon's Network: For Programmers
+# https://jon.network
