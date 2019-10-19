@@ -18,3 +18,9 @@ Output:
 ```
 Jon's Network: For Programmers
 ```
+
+## Running
+
+```
+python yook.py example.yook
+```
